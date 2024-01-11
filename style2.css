@@ -1,0 +1,148 @@
+body{
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+
+.topo{
+   
+ 
+    background-color: #2f86d6;
+    padding: 20px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+  
+    width: 100%;
+}
+
+.topo p{
+
+    margin-top: 0;
+    font-size: 16px;
+    color: #2f86d6;
+}
+
+
+
+.topo img{
+    height: 100px;
+}
+
+.topo ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.topo a{
+    color: white;
+    text-decoration: none;
+
+    padding: 10px;
+   
+    font-size: 18px;
+}
+
+.tabela-preco{
+    margin: 18px 40px;
+    height: 50%;
+    text-align: center;
+    width: 60vw;
+    display: flex;
+    align-items: center;
+    margin: 70px auto;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo1 p{
+color: white;}
+
+.left{
+    text-align: left;
+}
+
+
+
+
+
+.ge{
+    font-size: 25px;
+}
+
+th, td{
+   
+  
+    font-size: 15px;
+}
+
+.rodape{
+    
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    text-align: center;
+    height: 200px;
+    background-color: #2f86d6;
+}
+
+.rodape p{
+    margin: 0;
+}
+
+.caixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    height: 100%;
+}
+
+.caixa-text{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.rodape img{
+    height: 100px;
+}
+
+.footer{
+    color: black;
+    text-align: center;
+}
+
+
+
+td div{
+    text-align: right;
+    height: 8px;
+    background-color: #2f86d6;
+    width: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+
+td{
+    padding: 8px 25px;
+}
+
+span{
+    color: #2f86d6;
+}
